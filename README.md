@@ -1,6 +1,6 @@
 ## Practice 2
 Article Of Completely Fair Scheduler (CFS)
-
+Comparison of the CFS algorithm with the RM and EDF algorithms
 ---
 
 ##  Author
